@@ -1,4 +1,4 @@
-# Repository Quick Start template
+# TeslaMate 대한민국 수퍼차저 Geofence
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
@@ -9,9 +9,10 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About RepositoryTemplate
+## About TeslaMate 대한민국 수퍼차저 Geofence
 <!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
+테슬라메이트에 등록하기 위한 SQL문들을 공유하는 리포입니다.
+대한민국 수퍼차저만 다루고 있습니다.
 
 ## Overview
 <!-- Write Overview about this project -->
@@ -41,23 +42,20 @@ And repeat
 
     until finished
 -->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
+1. 다음 명령어로 Teslamate DB에 접속 `$ docker exec -it teslamate_database psql -U teslamate`
+2. 데이터베이스 이름이 다를 시, 다음 명령어로 조회 `$ docker ps` ex) db 이름 pi_database_1 -> `$ docker exec -it pi_database_1 psql -U teslamate `
+3. 리포지토리의 supercharger_geofence.md 파일 내용을 복사하여 명령어 실행
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
  -->
 ## Contributing
 <!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
+  - [ahndwon](https://github.com/ahndwon)
 
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/ahndwon/readmeTemplate/contributors)
 who participated in this project.
 <!--
 ## Used or Referenced Projects

@@ -22,7 +22,7 @@
 
 수퍼차저 위경도는 구글맵에서 테슬라 공홈 수퍼차지 지도에서 위치를 대조하여 직접 위경도를 추출했습니다.
 
-따라서 오차가 있을 수 있으므로 오차 발견 시, 이슈 부탁드려요.
+따라서 **오차가 있을 수 있으므로 오차 발견 시, 이슈 부탁드려요.**
 
 ## Getting Started
 **click `Use this template` and use this template!**
@@ -44,7 +44,7 @@ And repeat
 -->
 1. 다음 명령어로 Teslamate DB에 접속 `$ docker exec -it teslamate_database psql -U teslamate`
 2. 데이터베이스 이름이 다를 시, 다음 명령어로 조회 `$ docker ps` ex) db 이름 pi_database_1 -> `$ docker exec -it pi_database_1 psql -U teslamate `
-3. 리포지토리의 supercharger_geofence.md 파일 내용을 복사하여 명령어 실행
+3. 리포지토리의 `supercharger_geofence.md` 파일 내용을 복사하여 명령어 실행
 <!--
 ## Deployment
  Add additional notes about how to deploy this on a live system

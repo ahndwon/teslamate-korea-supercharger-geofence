@@ -12,13 +12,16 @@
 ## About TeslaMate 대한민국 수퍼차저 Geofence
 <!--Wirte one paragraph of project description -->  
 테슬라메이트에 등록하기 위한 SQL문들을 공유하는 리포입니다.
+
 대한민국 수퍼차저만 다루고 있습니다.
 
 ## Overview
 기본적으로 테슬라메이트에는 수퍼차저 geofence들이 등록되어 있지 않아
+
 일일히 등록해줘야 하는데 편하기 하기 위해 SQL문을 통해서도 등록할 수 있습니다.
 
 수퍼차저 위경도는 구글맵에서 테슬라 공홈 수퍼차지 지도에서 위치를 대조하여 직접 위경도를 추출했습니다.
+
 따라서 오차가 있을 수 있으므로 오차 발견 시, 이슈 부탁드려요.
 
 ## Getting Started

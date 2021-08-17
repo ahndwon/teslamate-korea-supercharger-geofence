@@ -45,7 +45,8 @@ And repeat
 1. 다음 명령어로 Teslamate DB에 접속 `$ docker exec -it teslamate_database psql -U teslamate`
 2. 데이터베이스 이름이 다를 시, 다음 명령어로 조회 `$ docker ps` ex) db 이름 pi_database_1 -> `$ docker exec -it pi_database_1 psql -U teslamate `
 3. 리포지토리의 `supercharger_geofence.md` 파일 내용을 복사하여 명령어 실행
-  만약, 아래와 같은 에러 발생 시, 
+
+만약, 아래와 같은 에러 발생 시, 
 ```
 ERROR:  numeric field overflow
 DETAIL:  A field with precision 6, scale 4 must round to an absolute value less than 10^2.

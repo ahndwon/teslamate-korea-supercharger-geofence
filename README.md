@@ -1,6 +1,6 @@
 # 🚗 TeslaMate 대한민국 수퍼차저 Geofence ⚡️
 <img src="./images/my_baby.PNG" height="400"></img>   
-## Index
+## 🗂 Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)

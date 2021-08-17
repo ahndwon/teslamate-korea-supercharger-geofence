@@ -26,11 +26,8 @@
 따라서 **오차가 있을 수 있으므로 오차 발견 시, 이슈 부탁드려요.**
 
 ## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
+**먼저 테슬라메이트가 필요합니다!**
+
 ### Installing
 <!-- A step by step series of examples that tell you how to get a development 
 env running

@@ -1,4 +1,5 @@
 # TeslaMate 대한민국 수퍼차저 Geofence
+<img src="./images/my_baby.PNG" height="400"></img>   
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
@@ -64,6 +65,10 @@ ALTER TABLE geofences ALTER COLUMN cost_per_unit TYPE numeric(7,4);
 ## Deployment
  Add additional notes about how to deploy this on a live system
  -->
+ 
+ #### 추가된 Geofences
+ <img src="./images/geofences_added.png" height="500"></img>   
+ 
 ## Contributing
 <!-- Write the way to contribute -->
 

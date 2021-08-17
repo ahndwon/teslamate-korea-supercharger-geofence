@@ -1,4 +1,4 @@
-# TeslaMate 대한민국 수퍼차저 Geofence
+# 🚗 TeslaMate 대한민국 수퍼차저 Geofence ⚡️
 <img src="./images/my_baby.PNG" height="400"></img>   
 ## Index
   - [Overview](#overview) 
@@ -10,13 +10,13 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About TeslaMate 대한민국 수퍼차저 Geofence
+## 📜 About TeslaMate 대한민국 수퍼차저 Geofence
 <!--Wirte one paragraph of project description -->  
 테슬라메이트에 등록하기 위한 SQL문들을 공유하는 리포입니다.
 
 대한민국 수퍼차저만 다루고 있습니다.
 
-## Overview
+## 🖥 Overview
 기본적으로 테슬라메이트에는 수퍼차저 geofence들이 등록되어 있지 않아
 
 일일히 등록해줘야 하는데 편하기 하기 위해 SQL문을 통해서도 등록할 수 있습니다.
@@ -25,10 +25,10 @@
 
 따라서 **오차가 있을 수 있으므로 오차 발견 시, 이슈 부탁드려요.**
 
-## Getting Started
+## 🏃Getting Started
 **먼저 테슬라메이트가 필요합니다!**
 
-### Installing
+### 🔨 Installing
 <!-- A step by step series of examples that tell you how to get a development 
 env running
 
@@ -63,13 +63,13 @@ ALTER TABLE geofences ALTER COLUMN cost_per_unit TYPE numeric(7,4);
  Add additional notes about how to deploy this on a live system
  -->
  
- #### 추가된 Geofences
+ #### 🌏 추가된 Geofences
  <img src="./images/geofences_added.png" height="500"></img>   
  
-## Contributing
+## 👫👫 Contributing
 <!-- Write the way to contribute -->
 
-## Authors
+## ✍️ Authors
   - [ahndwon](https://github.com/ahndwon)
 
 See also the list of [contributors](https://github.com/ahndwon/readmeTemplate/contributors)
@@ -79,7 +79,7 @@ who participated in this project.
  - [referenced Project](project link) - **LICENSE** - little-bit introduce
 -->
 
-## License
+## 🔖 License
 
 ```
 MIT License

@@ -753,3 +753,21 @@ VALUES      ('서귀포 수퍼차저',
             '2021-08-16 06:33:00',
              313,
              1000); 
+             
+INSERT INTO public.geofences
+            (name,
+             latitude,
+             longitude,
+             radius,
+             inserted_at,
+             updated_at,
+             cost_per_unit,
+             session_fee)
+VALUES      ('청라 수퍼차저',
+             37.53233266123065,
+             126.64147680376026
+             150,
+            '2021-08-16 06:33:00',
+            '2021-08-16 06:33:00',
+             313,
+             1000);

@@ -79,7 +79,7 @@ ALTER TABLE geofences ALTER COLUMN cost_per_unit TYPE numeric(7,4);
 ## ✍️ Authors
   - [ahndwon](https://github.com/ahndwon)
 
-See also the list of [contributors](https://github.com/ahndwon/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/ahndwon/teslamate-korea-supercharger-geofence/graphs/contributors)
 who participated in this project.
 <!--
 ## Used or Referenced Projects

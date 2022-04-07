@@ -41,7 +41,7 @@
 2. 데이터베이스 이름이 다를 시, 다음 명령어로 조회 `$ docker ps` <br/>
  ex) db 이름 pi_database_1 -> `$ docker exec -it pi_database_1 psql -U teslamate `
 
-3. 리포지토리의 `supercharger_geofence_<YY-mm-dd>.md` 파일 내용을 복사하여 명령어 실행
+3. 최신 [Release](https://github.com/ahndwon/teslamate-korea-supercharger-geofence/releases) 의 `supercharger_geofence_<YY-mm-dd>.md` 파일 내용을 복사하여 명령어 실행
 <br/><br/>
 만약, 아래와 같은 에러 발생 시, 
 ```

@@ -75,6 +75,7 @@ ALTER TABLE geofences ALTER COLUMN cost_per_unit TYPE numeric(7,4);
  
 ## 🛣 Roadmap
 - [ ] 업데이트 자동화
+- [ ] V2, V3 구분에 따른 충전 요금 계산
 - [ ] 배포 자동화
 - [ ] multi region 지원
  <br/><br/>
